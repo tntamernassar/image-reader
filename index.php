@@ -15,7 +15,7 @@ function draw() {
 	var canvas = document.getElementById("canvas1");
 	var ctx = canvas.getContext("2d");
    var imageObj = new Image();
-	imageObj.src = 'images/pac.jpg'; //replace any image you want
+	imageObj.src = 'test_image.jpg'; //replace any image you want
 	
 	
 	imageObj.onload = function() {
