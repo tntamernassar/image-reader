@@ -13,7 +13,7 @@ echo $imagecode;
 }
 else{
 	
-	echo "No request found Post in index page :)";
+	echo "No Post request found :)";
 	
 }
 ?>
